@@ -1,0 +1,34 @@
+[
+	{
+		
+		"name": "Ayzaria",
+		"leaderName": "Kentern II",
+		"adjective": ["Ayzarian"],
+		"startBias": ["Tundra, Coast"],
+		"preferredVictoryType": "Domination",
+		"personality": "Kentern II",
+
+		"startIntroPart1": "Greetings, your highness! Long ago, Ayzaria was pushed to the brink, as it was surrounded and attacked on all sides by our ruthless foes. However, following a last desperate escape by its remaining inhabitants to the tundras, the nation was able to rebuild under your leadership, and now stands ready once again to follow your command and reclaim what is rightfully ours!",
+		"startIntroPart2": "O ever brilliant and magnanimous leader of Ayzaria, will you now pick up the sword and lead us to victory? Will you crush our foes under your heel to reclaim what was lost? Will you be able to make the light of Ayzaria shine once more?",
+
+		"declaringWar": "I'm afraid your time has come to an end, and ours, has begun.",
+		"attacked": "What?! you DARE to attack ME?! To arms, men! To arms!",
+		"defeated": "I'm so sorry to my beloved people... I have failed you all...",
+		"introduction": "Good day. I wish you nothing but peace... For now.",
+
+		"neutralHello": "Hello, fellow leader.",
+		"hateHello": "The mere sight of you is making my eyes hurt.",
+
+		"tradeRequest": "I offer you these humble wares, for your exquisite treasures.",
+
+		"outerColor": [135,135,125],
+		"innerColor": [255,184,31],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Growing shadow of the snowlands",
+		"uniques": ["[+1 food, +1 gold, +1 science] from every [Tundra, Snow] tile","[-50]% strength <for all units> when in Ancient era","[-30]% strength <for all units> when in Classical era","[-10]% strength <for all units> when in Medieval era","[+10]% strength <for all units> when in Industrial era","[+30]% strength <for all units> when in Modern era","[+50]% strength <for all units> post-[Modern era]"],
+		"cities": ["Ayzar","Kenternia","Colpos","Iktimia","Tunddur","Mixirf","Oploqim","Vulburg","Werexol","Colovie","Arisip","Klesfor","Vickston","Icevice","Montken","Yuroxle","Aklabuto","Zewigpun","Nayonsag","Caspidi","Madarrulog","Pluhsk","Derisinloc",
+    "Qlinfalgar","Nayongpulowalamaisipnapangalan","Montezar","Augharl","Bucovat","Molksety","Vivils","Poaltzy","Bolokq","Jeirlinky","Resicutor","Montwerl","Estayzar","Nuukenter","Velidic-Mosorobos","Clorislent","Monttern","Ternilliuston","Izzidy","Coloc-Sadalba"],
+        "spyNames": ["Ternillius", "Avarados", "Toril", "Roxmok", "Serryl", "Ariagara", "Jahn", "Clovos", "Subus-Parius", "Aroudie"]
+
+    },
+]
