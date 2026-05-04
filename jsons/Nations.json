@@ -25,7 +25,10 @@
 		"innerColor": [255,144,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Growing shadow of the snowlands",
-		"uniques": ["[+1 food],[+1 gold],[+1 science] from every [Tundra],[Snow] tile","[-50]% strength <for all units> when in Ancient era","[-30]% strength <for all units> when in Classical era","[-10]% strength <for all units> when in Medieval era","[+10]% strength <for all units> when in Industrial era","[+30]% strength <for all units> when in Modern era","[+50]% strength <for all units> post-[Modern era]"],
+		"uniques": ["[+1 Food] from every [Tundra]","[+1 Food from every [Snow]",
+			"[+1 Gold] from every [Tundra]","[+1 Gold] from every [Snow]",
+			"[+1 Science] from every [Tundra]","[+1 Science] from every [Snow]",
+			"[-50]% Strength <during the [Ancient era]>","[-30]% Strength <during the [Classical era]>","[-10]% Strength <during the [Medieval era]>","[+10]% Strength <during the [Industrial era]>","[+30]% Strength <during the [Modern era]>","[+50]% Strength <starting from the [Atomic era]>"],
 		"cities": ["Ayzar","Kenternia","Colpos","Iktimia","Tunddur","Mixirf","Oploqim","Vulburg","Werexol","Colovie","Arisip","Klesfor","Vickston","Icevice","Montken","Yuroxle","Aklabuto","Zewigpun","Nayonsag","Caspidi","Madarrulog","Pluhsk","Derisinloc",
     "Qlinfalgar","Nayongpulowalamaisipnapangalan","Montezar","Augharl","Bucovat","Molksety","Vivils","Poaltzy","Bolokq","Jeirlinky","Resicutor","Montwerl","Estayzar","Nuukenter","Velidic-Mosorobos","Clorislent","Monttern","Ternilliuston","Izzidy","Coloc-Sadalba"],
         "spyNames": ["Ternillius", "Avarados", "Toril", "Roxmok", "Serryl", "Ariagara", "Jahn", "Clovos", "Subus-Parius", "Aroudie"]
